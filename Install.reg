@@ -1,0 +1,57 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Classes\*\shell]
+
+[HKEY_CURRENT_USER\Software\Classes\*\shell\Обновить версию]
+"icon"="c:\\Users\\efarovts\\Documents\\bse\\Ordnung.fei\\Ordnung.exe"
+
+[HKEY_CURRENT_USER\Software\Classes\*\shell\Обновить версию\command]
+@="c:\\Users\\efarovts\\Documents\\bse\\Ordnung.fei\\Ordnung.exe /u \"%1\""
+
+
+
+[HKEY_CURRENT_USER\Software\Classes\*\shell\Создать новую версию]
+"icon"="c:\\Users\\efarovts\\Documents\\bse\\Ordnung.fei\\Ordnung.exe"
+
+[HKEY_CURRENT_USER\Software\Classes\*\shell\Создать новую версию\command]
+@="c:\\Users\\efarovts\\Documents\\bse\\Ordnung.fei\\Ordnung.exe /n \"%1\""
+
+
+[HKEY_CURRENT_USER\Software\Classes\*\shell\Резервная копия]
+"icon"="c:\\Users\\efarovts\\Documents\\bse\\Ordnung.fei\\Ordnung.exe"
+
+[HKEY_CURRENT_USER\Software\Classes\*\shell\Резервная копия\command]
+@="c:\\Users\\efarovts\\Documents\\bse\\Ordnung.fei\\Ordnung.exe /b \"%1\""
+
+
+
+
+
+
+
+
+
+
+[HKEY_CURRENT_USER\Software\Classes\Directory\shell]
+
+[HKEY_CURRENT_USER\Software\Classes\Directory\shell\Обновить версию]
+"icon"="c:\\Users\\efarovts\\Documents\\bse\\Ordnung.fei\\Ordnung.exe"
+
+[HKEY_CURRENT_USER\Software\Classes\Directory\shell\Обновить версию\command]
+@="c:\\Users\\efarovts\\Documents\\bse\\Ordnung.fei\\Ordnung.exe /u \"%1\""
+
+
+
+[HKEY_CURRENT_USER\Software\Classes\Directory\shell\Создать новую версию]
+"icon"="c:\\Users\\efarovts\\Documents\\bse\\Ordnung.fei\\Ordnung.exe"
+
+[HKEY_CURRENT_USER\Software\Classes\Directory\shell\Создать новую версию\command]
+@="c:\\Users\\efarovts\\Documents\\bse\\Ordnung.fei\\Ordnung.exe /n \"%1\""
+
+
+
+[HKEY_CURRENT_USER\Software\Classes\Directory\shell\Резервная копия]
+"icon"="c:\\Users\\efarovts\\Documents\\bse\\Ordnung.fei\\Ordnung.exe"
+
+[HKEY_CURRENT_USER\Software\Classes\Directory\shell\Резервная копия\command]
+@="c:\\Users\\efarovts\\Documents\\bse\\Ordnung.fei\\Ordnung.exe /b \"%1\""
